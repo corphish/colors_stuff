@@ -9,6 +9,12 @@ A library that provides useful functions for working with colors. This is a flut
 - `ColorSet` - A set of `background`, `foreground` and `muted foreground` colors which you can use in various UI elements of your app.
 
 ## Usage
+Add the library to your `pubspec.yaml` file:
+```yaml
+dependencies:
+    colors_stuff: <latest_version>
+```
+
 Import the library.
 ```dart
 import 'package:colors_stuff/colors_stuff.dart';
