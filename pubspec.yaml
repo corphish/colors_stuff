@@ -1,6 +1,6 @@
 name: colors_stuff
 description: A library that provides useful functions for working with colors.
-version: 0.0.1
+version: 0.0.1+1
 repository: https://github.com/corphish/colors_stuff
 
 environment:
